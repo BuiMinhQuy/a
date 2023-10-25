@@ -1,0 +1,10 @@
+C:\Users\thanh\OneDrive\Tài liệu\BTL_WEB\Câu_3\Câu_3\bin\Debug\Câu_3.exe.config
+C:\Users\thanh\OneDrive\Tài liệu\BTL_WEB\Câu_3\Câu_3\bin\Debug\Câu_3.exe
+C:\Users\thanh\OneDrive\Tài liệu\BTL_WEB\Câu_3\Câu_3\bin\Debug\Câu_3.pdb
+C:\Users\thanh\OneDrive\Tài liệu\BTL_WEB\Câu_3\Câu_3\obj\Debug\Câu_3.csproj.AssemblyReference.cache
+C:\Users\thanh\OneDrive\Tài liệu\BTL_WEB\Câu_3\Câu_3\obj\Debug\Câu_3.Properties.Resources.resources
+C:\Users\thanh\OneDrive\Tài liệu\BTL_WEB\Câu_3\Câu_3\obj\Debug\Câu_3.csproj.GenerateResource.cache
+C:\Users\thanh\OneDrive\Tài liệu\BTL_WEB\Câu_3\Câu_3\obj\Debug\Câu_3.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Tài liệu\BTL_WEB\Câu_3\Câu_3\obj\Debug\Câu_3.exe
+C:\Users\thanh\OneDrive\Tài liệu\BTL_WEB\Câu_3\Câu_3\obj\Debug\Câu_3.pdb
+C:\Users\thanh\OneDrive\Tài liệu\BTL_WEB\Câu_3\Câu_3\obj\Debug\Câu_3.Pham_Tu_Thanh.resources
